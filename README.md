@@ -1,0 +1,17 @@
+## Termux-Wifi
+> apa itu termux-wifi?
+> Termux-Wifi adalah tools: mematikan wifi siapapun (Tanpa Admin), Hack Password wifi (ONLY ADMIN)
+> Token:
+## Instalasi
+```
+$ cd
+$ pkg update -y && pkg upgrade -y
+$ pkg install git -y
+$ pkg install python -y
+$ git clone https://github.com/DARK-02/Termux-Wifi
+```
+## execute
+```php
+$ cd Termux-Wifi
+$ python3 run.py
+```
