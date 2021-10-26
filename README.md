@@ -10,10 +10,10 @@ $ cd
 $ pkg update -y && pkg upgrade -y
 $ pkg install git -y
 $ pkg install python -y
-$ git clone https://github.com/DARK-02/Termux-Wifi
+$ git clone https://github.com/DARK-02/Termux_Wifi
 ```
 ## execute
 ```python3
-$ cd Termux-Wifi
+$ cd Termux_Wifi
 $ python3 run.py
 ```
